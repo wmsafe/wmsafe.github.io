@@ -1,0 +1,4 @@
+media/wmsafe-poster.png — product poster with original QR overlaid
+media/wmsafe-product-presentation.pptx — editable product presentation, 13 slides
+media/wmsafe-product-presentation.pdf — browser-readable presentation, 13 pages
+media/wmsafe-presentation-cover.png — presentation preview image
