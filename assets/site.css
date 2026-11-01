@@ -51,3 +51,16 @@
 .media-docs h2{margin:0 0 8px;font-size:22px}.media-docs p{margin:0 0 15px;color:#afc2da}.media-docs .actions{margin-top:17px}
 .poster-inline{max-width:170px;width:100%;border-radius:10px;border:1px solid rgba(115,184,253,.24)}
 @media(max-width:760px){.media-showcase{grid-template-columns:1fr;padding:19px;gap:23px}.media-cover{max-width:320px;margin:auto}.media-docs{grid-template-columns:1fr;gap:15px}.media-docs img{max-width:300px}}
+
+/* Software download V2.9: first-screen download conversion */
+.download-hero{padding:53px 0 49px;background:radial-gradient(ellipse at 80% 22%,#15588b8a,transparent 53%),linear-gradient(135deg,#091e39,#061122)}
+.download-hero h1{font-size:clamp(32px,4.1vw,49px);margin:12px 0 12px;letter-spacing:-.8px}
+.download-heading-accent{color:#83eaff}
+.download-hero .lead{max-width:850px;font-size:16px;line-height:1.8;margin:0}
+.download-hero-actions{margin-top:24px;gap:12px;align-items:center}
+.download-hero-primary{min-height:56px;font-size:16px;padding:13px 25px;box-shadow:0 14px 36px #158bff45}
+.download-version{font-size:12px;opacity:.92;letter-spacing:.04em;border-left:1px solid #ffffff66;padding-left:11px;margin-left:2px}
+.download-hero-meta{font-size:12px;color:#91b4ca;margin:14px 0 0}
+.download-hero-meta span{padding:0 6px;color:#54a8d4}
+.download-hero + .section{padding-top:34px}
+@media(max-width:560px){.download-hero{padding:35px 0 32px}.download-hero h1{font-size:clamp(28px,7.5vw,36px)}.download-hero .lead{font-size:14px;line-height:1.75}.download-hero-actions{margin-top:20px;gap:10px}.download-hero-primary{width:100%;min-height:52px;font-size:14px;padding:11px 14px}.download-hero-actions .ghost{width:100%}.download-hero-meta{line-height:1.8;font-size:11px}.download-hero + .section{padding-top:24px}}
